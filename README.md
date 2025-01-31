@@ -8,11 +8,11 @@
 
 ## Linkedin : [Click Here](https://www.linkedin.com/in/siddhant-jain-866805273/)
 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-This-side&theme=dark)](https://github.com/Jai-This-side) 
+<[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhantjain1077&theme=dark)](https://github.com/siddhantjain1077) 
 
-![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-This-Side&theme=calm&show_icons=true)&nbsp;
+![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhantjain1077&theme=calm&show_icons=true)&nbsp;
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-This-Side&theme=calm&layout=compact)](https://github.com/Jai-This-Side/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantjain1077&theme=calm&layout=compact)](https://github.com/siddhantjain1077/)
 
    <!--
    ### Languages and Tools:
