@@ -4,6 +4,7 @@
 
 - #### 📫 How to reach me *siddhantjain1077@gmail.com*
 - #### 🌱 I’m currently learning DSA in Java
+- #### 🌴 Also learning Web Development in React
 - #### 👯 I’m looking to collaborate on amazing projects
 
 ## Linkedin : [Click Here](https://www.linkedin.com/in/siddhant-jain-866805273/)
