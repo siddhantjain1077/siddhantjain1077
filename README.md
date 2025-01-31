@@ -1,14 +1,14 @@
-# Hi 👋, I'm Jai Singh Bisht 
+# Hi 👋, Siddhant Jain
 
-#  🥇 A passionate Software Engineer from India
+#  🥇 A  Software Engineer from India
 
-- #### 📫 How to reach me *jaisinghbisht@outlook.com*
+- #### 📫 How to reach me *siddhantjain1077@gmail.com*
 - #### 🌱 I’m currently learning DSA in Java
 - #### 👯 I’m looking to collaborate on amazing projects
 
-## Linkedin : [Click Here](https://linkedin.com/in/jai-singh-bisht-b28b29289)
+## Linkedin : [Click Here](https://www.linkedin.com/in/siddhant-jain-866805273/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-This-side&theme=dark)](https://github.com/Jai-This-side) 
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-This-side&theme=dark)](https://github.com/Jai-This-side) 
 
 ![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-This-Side&theme=calm&show_icons=true)&nbsp;
 <br>
